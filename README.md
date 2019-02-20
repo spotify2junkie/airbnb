@@ -7,4 +7,4 @@ check `final_for_xx.csv`
 check `finish_product.ipynb`, all the related work from medium article can be find there.
 
 
-Work collaborated by (Zhixin Lin)[https://github.com/zhixinl2]
+Work collaborated by [Zhixin Lin](https://github.com/zhixinl2)
